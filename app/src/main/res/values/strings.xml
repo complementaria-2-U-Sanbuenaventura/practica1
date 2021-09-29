@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Appusb</string>
+    <string name="titulo">Datos de Contacto</string>
+    <string name="mensajen">Digite el Nombre y Apellido</string>
+    <string name="mensajedad">Digite la Edad</string>
+    <string name="masct">Masculino</string>
+    <string name="femt">Femenino</string>
+    <string name="not">No Registra Genero</string>
+    <string name="benviart">Enviar</string>
+    <string name="titulo2">Gustos</string>
+    <string name="gusto1">Leer Libros</string>
+    <string name="gusto2">Player</string>
+    <string name="gusto3">Diseño</string>
+</resources>
